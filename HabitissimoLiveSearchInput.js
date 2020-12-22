@@ -150,6 +150,4 @@ class HabitissimoLiveSearchInput extends HTMLElement {
     }
 }
 
-// https://datos.gob.es/apidata/catalog/spatial?_pageSize=10&_page=0
-// https://datos.gob.es/apidata/nti/territory/Province?_sort=label&_pageSize=10&_page=0
 window.customElements.define('habitissimo-live-search-input', HabitissimoLiveSearchInput);
